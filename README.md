@@ -21,5 +21,3 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Pymetheus"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pymetheus&stroke=ffffff&background=181824&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Pymetheus" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pymetheus&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
