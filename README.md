@@ -6,13 +6,13 @@
 
 <img align="left" alt="GIF" src="res/looking-for-me.gif" width="330"/>   
 
-👀 I'm interested in building data pipelines, automation and web scraping tools with Python   
+👀 I'm interested in building data pipelines, automation and web scraping tools   
 
 🔭 I'm currently working on expanding my [SQLAlchemy Database Toolkit](https://github.com/Pymetheus/sqlalchemy-dbtoolkit) project   
 
-🌱 I’m currently learning how to containerize applications with Docker on my Raspberry Pi   
+🌱 I’m currently learning how to containerize applications with Docker   
 
-🤝 I’m looking to collaborate on Backend Development, Data Engineering and OSINT  
+🤝 I’m looking to collaborate on Backend Development, Data Engineering & OSINT  
 
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/fabian-eberle-) or via [Email](mailto:github.senate902@passfwd.com)
 <br>
