@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=10b981&duration=6000&lines=Hi+there;I'm+Fabian!+;aka+Pymetheus+;" />
 </h1>
 
-<img align="left" alt="GIF" src="res/looking-for-me.gif" width="330"/>   
+<img align="left" alt="GIF" src="res/looking-for-me.gif" width="327"/>   
 
 👀 I'm interested in building data pipelines, automation and web scraping tools   
 
