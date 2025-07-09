@@ -67,5 +67,5 @@ A curious Python bot traveling through X space on a RaspberryPi
 
 <h3>How many people found me</h3>
 <div align="left">
-  <img src="https://profile-counter.glitch.me/{Pymetheus}/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.deno.dev/Pymetheus/count.svg" alt="Visitor's Count" />
 </div>
