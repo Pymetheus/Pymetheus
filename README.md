@@ -21,6 +21,9 @@
 ## Open Source Projects
 
 
+**[Pandas Handbook](https://github.com/Pymetheus/pandas-handbook)**  
+An interactive Pandas Handbook with Jupyter notebooks to help you efficiently learn data analysis and manipulation in Python  
+
 **[SQLAlchemy Database Toolkit](https://github.com/Pymetheus/sqlalchemy-dbtoolkit)**  
 A modular toolkit for building, configuring, and managing databases using SQLAlchemy
 
@@ -63,6 +66,7 @@ A curious Python bot traveling through X space on a RaspberryPi
 <a href="https://github.com/Pymetheus" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://twitter.com/Pymetheus_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/fabian-eberle-" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.kaggle.com/pymetheus" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
 </p>
 
 <h3>How many people found me</h3>
