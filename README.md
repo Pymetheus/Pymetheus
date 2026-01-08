@@ -8,7 +8,7 @@
 
 👀 I'm interested in building data pipelines, automation and web scraping tools   
 
-🔭 I'm currently working on expanding my [SQLAlchemy Database Toolkit](https://github.com/Pymetheus/sqlalchemy-dbtoolkit) project   
+🔭 I'm currently working on a FastAPI project with Postman   
 
 🌱 I’m currently learning how to containerize applications with Docker   
 
@@ -19,20 +19,50 @@
 
 
 ## Open Source Projects
+### [Python Project Blueprint](https://github.com/Pymetheus/python-project-blueprint)  
+[![Python Version][python-badge]](https://www.python.org/)
+[![CI][ci-badge]](https://github.com/Pymetheus/python-project-blueprint/actions/workflows/ci.yml)
+[![Template][use-template-badge]](https://github.com/Pymetheus/python-project-blueprint/generate)  
+**Production-ready Python project template with modern tooling, CI/CD, security, and configuration built in.**
 
+### [Pandas Handbook](https://github.com/Pymetheus/pandas-handbook)  
+[![Pandas][pandas-badge]](https://pandas.pydata.org)
+[![Jupyter Notebook][jupyter-badge]](https://jupyter.org)
+[![Kaggle][kaggle-badge]](https://www.kaggle.com/writeups/pymetheus/pandas-handbook)  
+**An interactive Pandas Handbook with Jupyter notebooks to help you efficiently learn data analysis and manipulation in Python.**  
 
-**[Pandas Handbook](https://github.com/Pymetheus/pandas-handbook)**  
-An interactive Pandas Handbook with Jupyter notebooks to help you efficiently learn data analysis and manipulation in Python  
+### [SQLAlchemy Database Toolkit](https://github.com/Pymetheus/sqlalchemy-dbtoolkit)  
+[![SQLAlchemy][sqlalchemy-badge]](https://www.sqlalchemy.org)
+[![MySQL][mysql-badge]](https://www.mysql.com)
+[![Postgres][postgres-badge]](https://www.postgresql.org)  
+**A modular toolkit for building, configuring, and managing databases using SQLAlchemy.**
 
-**[SQLAlchemy Database Toolkit](https://github.com/Pymetheus/sqlalchemy-dbtoolkit)**  
-A modular toolkit for building, configuring, and managing databases using SQLAlchemy
+### [Distance Matrix Generator](https://github.com/Pymetheus/distance-matrix-generator)  
+[![MySQL][mysql-badge]](https://www.mysql.com)
+[![Postgres][postgres-badge]](https://www.postgresql.org)  
+**A Python pipeline to generate real-world distance matrixes from the Google Maps API and store them in SQL databases.** 
 
-**[Distance Matrix Generator](https://github.com/Pymetheus/distance-matrix-generator)**  
-A Python pipeline to generate real-world distance matrixes from the Google Maps API and store them in SQL databases. 
+### [XBot Pimetheus](https://github.com/Pymetheus/XBot_Pimetheus)  
+[![Raspberry Pi][raspberry-badge]](https://www.raspberrypi.com)
+[![Linux][linux-badge]](https://www.linux.org)
+[![X][x-badge]](https://x.com/Pimetheus_)  
+**A curious Python bot traveling through X space on a RaspberryPi.**
 
-**[XBot Pimetheus](https://github.com/Pymetheus/XBot_Pimetheus)**  
-A curious Python bot traveling through X space on a RaspberryPi
+[python-badge]: https://img.shields.io/badge/python-3.12%2B-blue?color=4180b1
+[ci-badge]: https://github.com/Pymetheus/python-project-blueprint/actions/workflows/ci.yml/badge.svg
+[use-template-badge]: https://img.shields.io/badge/Use%20this%20template-006222
 
+[pandas-badge]: https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white
+[jupyter-badge]: https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white
+[kaggle-badge]: https://img.shields.io/badge/Kaggle-035a7d?logo=kaggle&logoColor=white
+
+[sqlalchemy-badge]: https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?logo=sqlalchemy&logoColor=white
+[mysql-badge]: https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white
+[postgres-badge]: https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white
+
+[raspberry-badge]: https://img.shields.io/badge/-Raspberry_Pi-C51A4A?logo=Raspberry-Pi
+[linux-badge]: https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black
+[x-badge]: https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white
 
 ## Languages and Tools
 <p align="left">
