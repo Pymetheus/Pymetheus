@@ -22,6 +22,7 @@
 ### [Python Project Blueprint](https://github.com/Pymetheus/python-project-blueprint)  
 [![Python Version][python-badge]](https://www.python.org/)
 [![CI][ci-badge]](https://github.com/Pymetheus/python-project-blueprint/actions/workflows/ci.yml)
+[![CD][codecov-badge]](https://codecov.io/github/Pymetheus/python-project-blueprint)
 [![Template][use-template-badge]](https://github.com/Pymetheus/python-project-blueprint/generate)  
 **Production-ready Python project template with modern tooling, CI/CD, security, and configuration built in.**
 
@@ -50,6 +51,7 @@
 
 [python-badge]: https://img.shields.io/badge/python-3.12%2B-blue?color=4180b1
 [ci-badge]: https://github.com/Pymetheus/python-project-blueprint/actions/workflows/ci.yml/badge.svg
+[codecov-badge]: https://codecov.io/github/Pymetheus/python-project-blueprint/graph/badge.svg?token=Y4K5R5F457
 [use-template-badge]: https://img.shields.io/badge/Use%20this%20template-006222
 
 [pandas-badge]: https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white
