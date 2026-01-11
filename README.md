@@ -103,6 +103,4 @@
 </p>
 
 <h3>How many people found me</h3>
-<div align="left">
-  <img src="https://counter1.optistats.ovh/private/freecounterstat.php?c=8wscc3wgnzrhx8h5bwehcnxldhkj21gl" alt="Visitor's Count" />
-</div>
+[![Views](https://komarev.com/ghpvc/?username=Pymetheus&color=10b981&style=for-the-badge&base=1000)](https://github.com/Pymetheus)
