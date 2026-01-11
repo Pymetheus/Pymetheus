@@ -104,5 +104,5 @@
 
 <h3>How many people found me</h3>
 <div align="left">
-  <img src="https://profile-counter.deno.dev/Pymetheus/count.svg" alt="Visitor's Count" />
+  <img src="https://counter1.optistats.ovh/private/freecounterstat.php?c=8wscc3wgnzrhx8h5bwehcnxldhkj21gl" alt="Visitor's Count" />
 </div>
